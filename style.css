@@ -229,7 +229,7 @@ button>img{
 }
 .feature{
   padding: 60px 15% 50px ;
-  background-color: whitesmoke;
+  background-color: #ffff;
 
 }
 .center h2{
@@ -312,7 +312,7 @@ button>img{
 }
 .about{
   margin-bottom: 30px;
-  background-color: whitesmoke;
+  background-color: #ffff;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
